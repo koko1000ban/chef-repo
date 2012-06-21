@@ -1,0 +1,5 @@
+maintainer       "Tabito Ohtani"
+maintainer_email "koko1000ban@gmail.com"
+license          "Apache 2.0"
+description      "Installs/Configures redis"
+version          "0.1"
